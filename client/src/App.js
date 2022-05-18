@@ -13,8 +13,4 @@ function App() {
   );
 }
 
-/**
- * C'est de la merde comme langage tout comme Aden, BOUJOU je m'envole
- */
-
 export default App;
